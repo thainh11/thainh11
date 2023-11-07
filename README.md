@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thai nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thai nguyen" height="30" width="40" /></a>
-<a href="https://kaggle.com/nguyen hoang tha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nguyen hoang tha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/thai-nguyen-6588a2297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thai nguyen" height="30" width="40" /></a>
+<a href="https://kaggle.com/nguyenhoangthaik17hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nguyen hoang thai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
