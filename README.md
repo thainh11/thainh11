@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thaihoangnguyen06@gmail.com**
 
-- 📄 Know about my experiences: I don't have any experience before
+- 📄 Know about my experiences: Under 1 year
 
 - ⚡ Fun fact **Hardwork**
 
