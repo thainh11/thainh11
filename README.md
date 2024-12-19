@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Thai</h1>
-<h3 align="center">AI Engineer Intern from VietNam</h3>
+<h3 align="center">AI Engineer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thainh11&label=Profile%20views&color=0e75b6&style=flat" alt="thainh11" /> </p>
